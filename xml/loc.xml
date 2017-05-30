@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Locations>
+	<Location>
+		<Name>Bermuda</Name>
+		<isInternational>true</isInternational>
+	</Location>
+	<Location>
+		<Name>Bahama</Name>
+		<isInternational>true</isInternational>
+	</Location>
+	<Location>
+		<Name>Jamaica</Name>
+		<isInternational>true</isInternational>
+	</Location>
+	<Location>
+		<Name>Aruba</Name>
+		<isInternational>true</isInternational>
+	</Location>
+	<Location>
+		<Name>Key Largo</Name>
+		<isInternational>true</isInternational>
+	</Location>
+	<Location>
+		<Name>Montego</Name>
+		<isInternational>true</isInternational>
+	</Location>
+	<Location>
+		<Name>Wellington</Name>
+		<isInternational>false</isInternational>
+	</Location>
+		<Location>
+		<Name>Christchurch</Name>
+		<isInternational>false</isInternational>
+	</Location>
+	<Location>
+		<Name>Auckland</Name>
+		<isInternational>false</isInternational>
+	</Location>
+</Locations>
